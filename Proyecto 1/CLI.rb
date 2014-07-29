@@ -164,7 +164,7 @@ class CLI
 				if(yn == "Y" || yn == "y")
 					blocksLocal.printTables(true)
 				end
-				print "\nDesea ver las flechas hacia tablas? (y/n): "
+				print "\nDesea ver las flechas hacia las tablas? (y/n): "
 				yn = gets().chomp
 				if(yn == "Y" || yn == "y")
 					blocksLocal.printTablesArrows
@@ -181,7 +181,7 @@ class CLI
 		print "\t3. Global con K-band\n"
 		print "\t4. Global usando bloques de gaps\n"
 		print "\t5. Local usando bloques de gaps\n"
-		print "\t================================\n"
+		print "\t==================================\n"
 	end
 
 	def displayFiles

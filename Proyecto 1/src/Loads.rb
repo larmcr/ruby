@@ -1,0 +1,13 @@
+# Loads
+load "src/Constants.rb"
+load "src/Result.rb"
+load "src/Base.rb"
+load "src/BaseTable.rb"
+load "src/BaseBlocks.rb"
+load "src/Arrow.rb"
+load "src/Cell.rb"
+load "src/Global.rb"
+load "src/Local.rb"
+load "src/Banded.rb"
+load "src/BlocksGlobal.rb"
+load "src/BlocksLocal.rb"

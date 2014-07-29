@@ -1,0 +1,18 @@
+# encoding: utf-8
+$NEGATIVE_INFINITY = -1.0/0.0
+$NEGATIVE_INFINITY_SYMBOL = "-∞"
+$EPSILON_SYMBOL = "ε"
+$NU_SYMBOL = "ν"
+$OMEGA_SYMBOL = "ω"
+$TABLE_SYMBOL = "#"
+$GAP_SYMBOL = "_"
+$BORDER_KNOT = "+"
+$HORIZONTAL_BORDER = "-"
+$VERTICAL_BORDER = "|"
+$NEWLINE = "\n"
+$SPACE = " "
+$EMPTY = ""
+$ARROW_DIAGONAL = "↖"
+$ARROW_LEFT = "←"
+$ARROW_UP = "↑"
+$ARROW_RIGHT = "→"

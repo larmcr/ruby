@@ -146,7 +146,7 @@ class CLI
 				if(yn == "Y" || yn == "y")
 					blocksGlobal.printTables(true)
 				end
-				print "\nDesea ver las flechas hacia tablas? (y/n): "
+				print "\nDesea ver las flechas hacia las tablas? (y/n): "
 				yn = gets().chomp
 				if(yn == "Y" || yn == "y")
 					blocksGlobal.printTablesArrows

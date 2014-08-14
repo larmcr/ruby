@@ -25,7 +25,7 @@ class CLI
 				when "3"
 					print "Programa finalizado\n"
 				else
-					print "Seleccione 1, 2 o 3\n"
+					print "Introduzca 1, 2 o 3\n"
 			end
 		print $NEWLINE
 		end while(option != "3")

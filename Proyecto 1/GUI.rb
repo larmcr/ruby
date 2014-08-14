@@ -1,6 +1,6 @@
 #Graphical User Interface
 
-require 'gtk2'
+require "gtk2"
 load "src/Loads.rb"
 
 class GUI < Gtk::Window
@@ -15,8 +15,6 @@ class GUI < Gtk::Window
 		set_window_position(Gtk::Window::POS_CENTER)
 		setUI
 		show_all
-
-		#example
 	end
 
 	def setUI

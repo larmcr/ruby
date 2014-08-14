@@ -2,6 +2,6 @@ Proyecto 1
 
 Consideraciones:
  - Está programado y probado en Ruby versión 1.9.3.
- - Para correr la interfaz gráfica se necesita GTK2.
- - El Main.rb es el programa principal.
+ - Para ver la interfaz gráfica (GUI) se necesita GTK2 y sus 'bindings' para Ruby.
+ - El Main.rb es el programa principal, por lo tanto.
  - Los TXTs son secuencias de prueba.
